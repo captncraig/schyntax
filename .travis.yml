@@ -1,4 +1,1 @@
-language: go
-sudo: false
-go:
-  - tip
+language: node_js
